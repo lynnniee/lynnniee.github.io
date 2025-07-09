@@ -4,15 +4,10 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hi, I’m Lynnniee — currently studying MSc Business Analytics in Imperial College London.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+I’m passionate about combining finance and data, and I’m learning Python to build small, practical projects that solve real problems. I created this blog to document my progress, share project ideas, and reflect on what I’ve learned.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Through this space, I hope to grow my skills, showcase my portfolio, and connect with others interested in finance, analytics, and coding.
 
-
-[jekyll-organization]: https://github.com/jekyll
+Thanks for visiting!
